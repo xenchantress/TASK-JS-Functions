@@ -6,10 +6,11 @@
  * e.g.
  * greet("Hamza") logs "Hello Hamza"
  */
-function greet(name) {
+function sayHi(name) {
+  console.log(`Hi ${name}`);
   // Your code here
 }
-
+sayHi("Allujain");
 /**
  * isOdd(n):
  * - receives a number n
@@ -19,7 +20,7 @@ function greet(name) {
  * isOdd(7) -> true
  * isOdd(10) -> false
  */
-function isOdd(n) {
+function isOdd(n) if() { 
   // Your code here
 }
 
